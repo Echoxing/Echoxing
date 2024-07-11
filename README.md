@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Echo</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>I'm Echo</h2>
 
 <!-- ## 👋 &nbsp;I'm Echo -->
 
